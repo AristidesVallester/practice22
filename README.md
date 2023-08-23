@@ -12,47 +12,46 @@
 
 >[!NOTE]
 >
->
+> Nota
 
 >[!TIP]
 >
->
+> Tips
 
 >[!CAUTION]
 >
->
+> Precaución
 
 >[!IMPORTANT]
 >
->
+> Importante
 
 >[!WARNING]
 >
->
+>  Advertencia
 
 >[!ADMINISTRATION]
 >
->
+>  Administrativa
 
 >[!AVAILABILITY]
 >
->
+>  Disponible
 
 >[!PREREQUISITES]
 >
->
+>  Prerequesitos 
+> [] Opción 1
+> [] Opción 2
 
 >[!ERROR]
 >
->
+> Error
 
->[!ADMINISTRATION]
->
->
 
 >[!INFO]
 >
->
+>  informativo
 
 
 >[!SUCCESS]
