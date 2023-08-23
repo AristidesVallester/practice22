@@ -25,10 +25,14 @@
 <details><summary>CLICK ME</summary>
 <p>
 
-#### We can hide anything, even code!
+#### Se puede ocultar cualquier cosa, incluso Codigo
 
-```javascript
-   console.log ("Hello World")
+```
+{
+  "firstName": "Aristides",
+  "lastName": "Vallester",
+  "age": 42
+}
 ```
 
 </p>
