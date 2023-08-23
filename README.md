@@ -13,29 +13,10 @@
 
 >[!WARNING]
 >
->  «El cambio es el resultado final del verdadero aprendizaje»
-
-
->[!PREREQUISITES]
+>  `` «El cambio es el resultado final del verdadero aprendizaje» ``
 >
->  Prerequesitos 
-> [] Opción 1
-> [] Opción 2
+>  ``` «El cambio es el resultado final del verdadero aprendizaje» ```
 
->[!ERROR]
->
-> Error
-
-
->[!INFO]
->
->  informativo
-
-
->[!SUCCESS]
->
->Exito
->
 
 <details><summary>CLICK ME</summary>
 <p>
