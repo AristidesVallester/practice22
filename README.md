@@ -21,13 +21,20 @@
 >   «El cambio es el resultado final del verdadero aprendizaje» 
 >  ```
 
+Alternativas: 
+
+> :warning: **Warning:** Do not push the big red button.
+
+> :memo: **Note:** Sunrises are beautiful.
+
+> :bulb: **Tip:** Remember to appreciate the little things in life.
 
 <details><summary>CLICK ME</summary>
 <p>
 
 #### Se puede ocultar cualquier cosa, incluso Codigo
 
-```
+```json
 {
   "firstName": "Aristides",
   "lastName": "Vallester",
@@ -35,5 +42,13 @@
 }
 ```
 
+</p>
+</details>
+
+<details><summary>Cosas por hacer</summary>
+<p>
+- [x] Subscript **H~2~O**
+- [ ] ==very important words==
+- [ ] :joy:
 </p>
 </details>
