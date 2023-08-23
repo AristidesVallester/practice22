@@ -58,3 +58,15 @@
 >
 >Exito
 >
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```javascript
+   console.log ("Hello World")
+```
+
+</p>
+</details>
