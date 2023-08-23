@@ -13,9 +13,13 @@
 
 >[!WARNING]
 >
->  `` «El cambio es el resultado final del verdadero aprendizaje» ``
+>  `` 
+>   Es una cuestión de deseo (ardiente), aprendizaje (estudio y práctica), feedback (retroalimentación) y determinación (no abandonar). 
+> ``
 >
->  ``` «El cambio es el resultado final del verdadero aprendizaje» ```
+>  ``` 
+>   «El cambio es el resultado final del verdadero aprendizaje» 
+>  ```
 
 
 <details><summary>CLICK ME</summary>
