@@ -8,35 +8,13 @@
 
 >[!IMPORTANT]
 >
->El ser humano tiene tres tipos de motivaciones: una motivación **«extrínseca»** *(dinero)*, una motivación **«intrínseca»** *(crecimiento y aprendizaje)* y también una motivación **«trascendente»** *(necesita sentir que contribuye a alguna causa)*. 
-
->[!NOTE]
->
-> Nota
-
->[!TIP]
->
-> Tips
-
->[!CAUTION]
->
-> Precaución
-
->[!IMPORTANT]
->
-> Importante
+>El ser humano tiene tres tipos de motivaciones: una motivación **«extrínseca»** *(dinero)*, una motivación **«intrínseca»** *(crecimiento y aprendizaje)* y también una motivación **«trascendente»** *(necesita sentir que contribuye a alguna causa)*.
+> 
 
 >[!WARNING]
 >
->  Advertencia
+>  «El cambio es el resultado final del verdadero aprendizaje»
 
->[!ADMINISTRATION]
->
->  Administrativa
-
->[!AVAILABILITY]
->
->  Disponible
 
 >[!PREREQUISITES]
 >
