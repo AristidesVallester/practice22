@@ -41,14 +41,17 @@ Alternativas:
   "age": 42
 }
 ```
-
 </p>
 </details>
-
-<details><summary>Cosas por hacer</summary>
-<p>
 - [x] Subscript **H~2~O**
 - [ ] ==very important words==
 - [ ] :joy:
+<details><summary>Cosas por hacer</summary>
+<p>
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+</ul>
 </p>
 </details>
