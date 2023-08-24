@@ -43,9 +43,13 @@ Alternativas:
 ```
 </p>
 </details>
+
+---
 - [x] Subscript **H~2~O**
 - [ ] ==very important words==
 - [ ] :joy:
+---
+
 <details><summary>Cosas por hacer</summary>
 <p>
 <ul>
